@@ -1,0 +1,39 @@
+.contact {
+  width: 80%;
+  margin: 30px auto;
+  padding: 25px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border-left: 6px solid #16a34a;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.contact h1 {
+  color: #15803d;
+  margin-bottom: 15px;
+}
+
+.contact h2 {
+  color: #16a34a;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.contact p {
+  line-height: 1.8;
+  color: #555;
+}
+
+.contact button {
+  margin-top: 20px;
+  padding: 10px 18px;
+  background-color: #16a34a;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.contact button:hover {
+  background-color: #15803d;
+}

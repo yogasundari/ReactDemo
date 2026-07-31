@@ -1,0 +1,48 @@
+.college {
+  width: 80%;
+  margin: 30px auto;
+  padding: 25px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border-left: 6px solid #2563eb;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.college h1 {
+  color: #1d4ed8;
+  margin-bottom: 15px;
+}
+
+.college h2 {
+  color: #2563eb;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.college p {
+  line-height: 1.8;
+  color: #555;
+}
+
+.college ul {
+  margin-left: 20px;
+  margin-top: 10px;
+}
+
+.college li {
+  margin: 8px 0;
+}
+
+.college button {
+  margin-top: 20px;
+  padding: 10px 18px;
+  background-color: #2563eb;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.college button:hover {
+  background-color: #1d4ed8;
+}
