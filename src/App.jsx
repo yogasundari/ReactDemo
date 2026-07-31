@@ -5,7 +5,6 @@ import Contact from "./Contact"
 function App() {
   return(
     <div>
-        <h1>hii</h1>
         <College/>
         <Contact/>
         
